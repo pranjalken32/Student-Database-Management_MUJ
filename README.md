@@ -1,5 +1,5 @@
 # Student-Database-Management_MUJ
-Student Database management using Data Structures (Circular Linked List) was a Mini Project assigned to me towards the partial fulfillment for the subject -Data Structure Lab (DS2132). The code is written in C Language.
+Student Database management using Data Structures (Circular Linked List) was a Mini Project assigned to me towards the partial fulfilment for the subject -Data Structure Lab (DS2132). The code is written in C Language.
 # Project Description
 To maintain attendance information of students, data structure Created: <br/>
 Student Structure <br/>
